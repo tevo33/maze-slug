@@ -20,8 +20,6 @@ Abra a pasta como projeto Maven e execute `br.com.estevao.mazeslug.MazeGame`.
 
 Requisitos: JDK 11 ou superior.
 
-O pacote também inclui `dist/maze-slug.jar`, pronto para executar com `java -jar dist/maze-slug.jar`.
-
 ## Executar pelo terminal
 
 Com Maven:
